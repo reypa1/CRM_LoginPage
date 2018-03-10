@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FrameWorkDesign" duration-ms="101923" started-at="2018-03-02T16:41:42Z" finished-at="2018-03-02T16:43:23Z">
+    <groups>
+    </groups>
+    <test name="FunctionalTesting" duration-ms="101923" started-at="2018-03-02T16:41:42Z" finished-at="2018-03-02T16:43:23Z">
+      <class name="com.qa.test.Loginpage_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.Loginpage_Test@4dfa3a9d]" name="setup" is-config="true" duration-ms="12911" started-at="2018-03-02T22:12:33Z" finished-at="2018-03-02T22:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validate_login_title()[pri:1, instance:com.qa.test.Loginpage_Test@4dfa3a9d]" name="validate_login_title" duration-ms="84" started-at="2018-03-02T22:12:46Z" finished-at="2018-03-02T22:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_login_title -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.Loginpage_Test@4dfa3a9d]" name="teardown" is-config="true" duration-ms="845" started-at="2018-03-02T22:12:46Z" finished-at="2018-03-02T22:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.Loginpage_Test@4dfa3a9d]" name="setup" is-config="true" duration-ms="17614" started-at="2018-03-02T22:12:47Z" finished-at="2018-03-02T22:13:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.qa.test.Loginpage_Test@4dfa3a9d]" name="login" duration-ms="17989" started-at="2018-03-02T22:13:05Z" finished-at="2018-03-02T22:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.Loginpage_Test@4dfa3a9d]" name="teardown" is-config="true" duration-ms="834" started-at="2018-03-02T22:13:23Z" finished-at="2018-03-02T22:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.test.Loginpage_Test -->
+      <class name="com.qa.test.SignUpPage_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.SignUpPage_Test@6eebc39e]" name="setup" is-config="true" duration-ms="26633" started-at="2018-03-02T22:11:42Z" finished-at="2018-03-02T22:12:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SignUp()[pri:0, instance:com.qa.test.SignUpPage_Test@6eebc39e]" name="SignUp" duration-ms="23662" started-at="2018-03-02T22:12:08Z" finished-at="2018-03-02T22:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.SignUpPage_Test@6eebc39e]" name="teardown" is-config="true" duration-ms="1253" started-at="2018-03-02T22:12:32Z" finished-at="2018-03-02T22:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.test.SignUpPage_Test -->
+    </test> <!-- FunctionalTesting -->
+  </suite> <!-- FrameWorkDesign -->
+</testng-results>

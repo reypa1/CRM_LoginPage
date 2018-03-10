@@ -1,0 +1,5 @@
+com\qa\pages\SignUp_page.class
+com\qa\pages\Login_page.class
+com\qa\utility\TestUtil_timeouts.class
+com\qa\base\TestBase.class
+com\qa\pages\Home_page.class
